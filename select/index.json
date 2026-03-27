@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ultra魂",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-03-27T08:44:48.897818Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ultra魂",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ultra魂_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
